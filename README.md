@@ -1,4 +1,4 @@
-# The Island's Discovery - A 2D Top-Down Pixel Art Adventure
+# Harsh Mu me lelo - A 2D Top-Down Pixel Art Adventure
 
 ## Description
 
