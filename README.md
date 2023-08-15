@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to "The Island's Discovery," an exciting 2D top-down pixel art adventure game where players follow the journey of Alex, a curious and adventurous boy who stumbles upon an ancient map in his garage. Intrigued by the promise of hidden treasure on a mysterious island, Alex embarks on a thrilling cycling expedition to explore the uncharted land.
+Welcome to "The Island Odyssey" an exciting 2D top-down pixel art adventure game where players follow the journey of Alex, a curious and adventurous boy who stumbles upon an ancient map in his garage. Intrigued by the promise of hidden treasure on a mysterious island, Alex embarks on a thrilling cycling expedition to explore the uncharted land.
 
 ## Gameplay
 
@@ -26,12 +26,12 @@ Welcome to "The Island's Discovery," an exciting 2D top-down pixel art adventure
 
 ## Credits
 
-"The Island's Discovery" is developed by World of Science Group, a passionate team of game developers dedicated to creating memorable gaming experiences.
+"The Island Odyssey" is developed by World of Science Group, a passionate team of game developers dedicated to creating memorable gaming experiences.
 
 Special thanks to the open-source pixel art community for their amazing assets used in the game.
 
 ## License
 
-"The Island's Discovery" is licensed by Harsh Pandhe. Feel free to modify and share the game as long as proper attribution is given.
+"The Island Odyssey" is licensed by Quad-Cycle. Feel free to modify and share the game as long as proper attribution is given.
 
 Thank you for playing, and we wish you an unforgettable adventure on the mysterious island!
