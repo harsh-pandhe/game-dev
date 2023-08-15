@@ -1,4 +1,4 @@
-# The Island's Discovery - A 2D Top-Down Pixel Art Adventure
+# Island Odyssey: Quest for Enigma's Treasure - A 2D Top-Down Pixel Art Adventure
 
 ## Description
 
