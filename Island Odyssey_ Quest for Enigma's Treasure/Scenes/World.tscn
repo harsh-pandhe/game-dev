@@ -1,9 +1,13 @@
-[gd_scene load_steps=3 format=2]
+[gd_scene load_steps=4 format=2]
 
 [ext_resource path="res://Assets/Charachter/Spritesheet/CHAR.png" type="Texture" id=1]
 [ext_resource path="res://Scripts/PlayerMovement.gd" type="Script" id=2]
+[ext_resource path="res://Scripts/BackgroundSounds.gd" type="Script" id=3]
 
 [node name="World" type="Node2D"]
+
+[node name="Background-Sounds" type="AudioStreamPlayer" parent="."]
+script = ExtResource( 3 )
 
 [node name="Player" type="KinematicBody2D" parent="."]
 position = Vector2( 156, 82 )
